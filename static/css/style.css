@@ -1,0 +1,12 @@
+.bongocat__body {
+  position: relative;
+}
+.bongocat__layer {
+  position: absolute;
+}
+.bongocat__layer-left {
+  display: none;
+}
+.bongocat__layer-right {
+  display: none;
+}
